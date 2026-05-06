@@ -60,7 +60,7 @@
 
 <!-- <img align="right" width="88" src="https://bucket-hyrjmh-beijing.oss-cn-beijing.aliyuncs.com/upload/cn/images/2020-12/1607591871999.png" /> -->
 
-- [艾吾科技（大连）有限公司](https://www.awkj.cc/service.html) &emsp; 📌 2023-06-20 —— 2023-08-12
+- [艾吾科技（大连）有限公司](https://www.awkj.cc/service.html) &emsp; 📌 2024-06-20 —— 2024-08-12
 
   - 工作岗位：后端开发实习生
   - 工作内容：一些杂活
